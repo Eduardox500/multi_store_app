@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757873187159",
+    "project_id": "multi-store-app-560ee",
+    "storage_bucket": "multi-store-app-560ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757873187159:android:82e2009f77ae940f82c612",
+        "android_client_info": {
+          "package_name": "com.esegura.multi_store_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvx8YQFUOCjv3QZlNWbn8BtySiB6DMxDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
